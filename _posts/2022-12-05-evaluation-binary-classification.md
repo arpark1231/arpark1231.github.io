@@ -2,7 +2,7 @@
 layout: post
 title: "Evaluation of a Model for Classification Problem (Part 1)"
 subtitle: "Binary Classification"
-background: '/img/posts/01.jpg'
+background: '/img/posts/evaluation_part1/assessment-strategy-evaluation-prioritize-icons.jpg'
 ---
 
 # Evaluation of a model for classification problem (Part 1)
