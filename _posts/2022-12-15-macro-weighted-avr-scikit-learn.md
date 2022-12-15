@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Macro vs. Weighted Average in a Classification Report of scikit-learn"
-subtitle: "what is the difference and how to calculate them"
+subtitle: "What is the difference and how to calculate them?"
 background: '/img/posts/evaluation_part1/assessment-strategy-evaluation-prioritize-icons.jpg'
 ---
 
