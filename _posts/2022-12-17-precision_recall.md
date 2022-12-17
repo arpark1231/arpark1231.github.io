@@ -5,7 +5,8 @@ subtitle: "Assessing the model performance in terms of Precision & Recall"
 background: '/img/posts/precision_recall/perfomance.jpg'
 ---
 
-# High precision & Low recall vs. Low precision & High recall 
+# High precision & Low recall vs. 
+# Low precision & High recall 
 
 We've learned how to calculate the macro/weighted average of precision, recall and f1-score for a trained model. 
 
