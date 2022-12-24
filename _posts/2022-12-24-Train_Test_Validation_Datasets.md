@@ -2,7 +2,7 @@
 layout: post
 title: "Training, Testing and Validation Datasets in Machine Learning"
 subtitle: "What they are and when we use them in terms of ML"
-background: '/img/posts/precision_recall/perfomance.jpg'
+background: '/img/posts/training_testing_validation/ML1.jpg'
 ---
 
 # Training, Testing and Validation Datasets in Machine Learning
