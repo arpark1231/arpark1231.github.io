@@ -44,7 +44,7 @@ The most important thing by the validation dataset is that the model occasionall
 
 In the next post, we will learn:
 1. How we split the dataset when it is not enough. (**<mark style="background-color: lightpink">"K-Fold Cross Validation"</mark>**)
-2. Why we adjust the hyperparameters of the model. (The relationship between **<mark style="background-color: lightpink">"epoch"</mark>** and **<mark style="background-color: lightpink">"model's performance"</mark>**)
+2. Why we use it for model selection
 
 <br/>
 
