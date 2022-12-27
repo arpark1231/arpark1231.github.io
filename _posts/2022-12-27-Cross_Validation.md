@@ -53,8 +53,8 @@ Furthermore, we could use various parts of the training and validation dataset f
 **A test dataset** is held out **for final evaluation** of the best model that is chosen by the cross validation. 
 
 In the next post, we will learn:
-1. What is exatly a good model in terms of machine learning. 
-2. How we do **<mark style="background-color: lightblue">hyperparameter tuning</mark>** of a model to find the best model. 
+1. What is exactly a good model in terms of machine learning. 
+2. What are **<mark style="background-color: lightblue">Overfitting</mark>** and **<mark style="background-color: lightblue">Underfitting</mark>** by model validation.
 
 <br/>
 
