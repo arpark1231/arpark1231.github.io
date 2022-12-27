@@ -47,7 +47,7 @@ Let's say we are using **"5-fold cross-validation"** for selecting the best mode
 
 ![png](/img/posts/cross_validation/cross_validation.png){:width="800"}
 
-Using cross validation method, we could learn more with 5 iterations compared to the data splitting method in the first image above.   
+Using cross validation method, we could learn more while iterating 5 times compared to the data splitting method in the first image above.   
 Furthermore, we could use various parts of the training and validation dataset for learning and validating the performance of the trained model in order to find the best model. 
 
 **A test dataset** is held out **for final evaluation** of the best model that is chosen by the cross validation. 
