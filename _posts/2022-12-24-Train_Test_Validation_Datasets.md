@@ -23,7 +23,7 @@ Then the model cannot predict well when there is new data to be classified (no g
 
 This is why we split the dataset into two parts: 
 1. **<mark style="background-color: lightblue">Training dataset</mark>** (for training a model)
-2. **<mark style="background-color: lightblue">Testing set</mark>** (for testing the trained model)
+2. **<mark style="background-color: lightblue">Testing dataset</mark>** (for testing the trained model)
 
 Typically, **80%** of the whole dataset is used for training and **20%** of the dataset for testing (the percentage can vary):
 
