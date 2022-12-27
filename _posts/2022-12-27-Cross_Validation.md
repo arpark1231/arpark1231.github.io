@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "K-fold Cross Validation for model selection in ML"
+title: "K-fold Cross Validation for model selection in Machine Learning"
 subtitle: "What is it and why we use it"
 background: '/img/posts/training_testing_validation/ML1.jpg'
 ---
 
-# K-fold Cross Validation for model selection
+# K-fold Cross Validation for model selection in ML
 
 In the previous post, we've learned why we split the dataset into training, validation and testing dataset in terms of machine learning.
 
