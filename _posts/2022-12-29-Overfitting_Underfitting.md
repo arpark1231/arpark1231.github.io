@@ -5,7 +5,7 @@ subtitle: "Model Validation"
 background: '/img/posts/training_testing_validation/ML1.jpg'
 ---
 
-# Model Validation: Overfitting and Underfitting 
+# Overfitting and Underfitting in terms of Model Validation
 
 In the previous post, we've learned K-fold cross validation method for splitting the whole dataset in terms of model selection.
 
