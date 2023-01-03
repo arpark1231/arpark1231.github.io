@@ -39,7 +39,7 @@ Given this whole dataset, we would like to find the best model to predict the he
 
 For training and validating models, we need to **split the dataset** into training and validation dataset.  
 
-If you are not sure about why and how we split the dataset, 
+If you are not sure about why and how we split the dataset,  
 check here: [Training, Testing and Validation Datasets in Machine Learning](https://arpark1231.github.io/2022/12/24/Train_Test_Validation_Datasets.html)
 
 ![png](/img/posts/bias_variance/training_validation_dataset.png){:width="400"}
