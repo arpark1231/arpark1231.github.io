@@ -89,13 +89,11 @@ Now it is time to validate the trained models to see if it will work well on the
 
 ![png](/img/posts/bias_variance/high_variance.png){:width="800"}
 
-![png](/img/posts/bias_variance/low_variance.png){:width="800"}
-
-
 **Model 2** shows **high variance** because its fits beween training and validation datasets are quite **different**. It worked well on training dataset but bad on validation dataset.
 
-**Model 1** shows **low variance** because its fits beween training and validation datasets are quite **similar**. It worked ok both on training and validation datset. But not great.
+![png](/img/posts/bias_variance/low_variance.png){:width="800"}
 
+**Model 1** shows **low variance** because its fits beween training and validation datasets are quite **similar**. It worked ok both on training and validation datset. But not great.
 
 Now, we can understand the relationship between overfitting/underfitting and bias/variance.
 
