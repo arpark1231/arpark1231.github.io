@@ -45,7 +45,7 @@ Early stopping refers to stopping the training process earlier so that the model
 
 In terms of model selection,
 
-**Reason 2.** The model is too complex.  
+**Reason 2.** The model is **too complex**.  
 
 **Solution 2.**   
 **<mark style="background-color: lightblue">Regularization</mark>**:
@@ -55,7 +55,7 @@ Regularization refers to a variety of techniques to make the model to be simpler
 
 In terms of feature engineering,
 
-**Reason 3.** The model uses too many ML features.  
+**Reason 3.** The model uses **too many ML features**.  
 
 **Solution 3.**   
 **<mark style="background-color: lightblue">Remove features</mark>**:
@@ -81,7 +81,7 @@ Increasing the number of epochs or the duration of training can avoid the model 
 
 In terms of model selection,
 
-**Reason 2.** The model is too simple.  
+**Reason 2.** The model is **too simple**.  
 
 **Solution 2.**   
 **<mark style="background-color: lightpink">A more complex model</mark>**:
